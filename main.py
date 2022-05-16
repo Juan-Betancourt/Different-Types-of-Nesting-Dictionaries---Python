@@ -18,3 +18,15 @@ travel_log = {
 }
 
 #Nesting a Dictionary in a list
+travel_log = [
+  {
+    "country": "France", 
+    "cities_visited": ["Paris", "Lille", "Dijon"], 
+    "total _visits": 12
+  },
+  {
+    "country": "Germany", 
+    "cities_visited": ["Berlin", "Hamburg", "Stutgart"], 
+    "total _visits": 5
+  },
+]
